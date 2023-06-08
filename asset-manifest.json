@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "https://shehabsai.github.io/csb-om46ir/static/js/main.f8b95c4b.chunk.js",
+    "main.js.map": "https://shehabsai.github.io/csb-om46ir/static/js/main.f8b95c4b.chunk.js.map",
+    "runtime-main.js": "https://shehabsai.github.io/csb-om46ir/static/js/runtime-main.c4073a00.js",
+    "runtime-main.js.map": "https://shehabsai.github.io/csb-om46ir/static/js/runtime-main.c4073a00.js.map",
+    "static/js/2.7b84c1fd.chunk.js": "https://shehabsai.github.io/csb-om46ir/static/js/2.7b84c1fd.chunk.js",
+    "static/js/2.7b84c1fd.chunk.js.map": "https://shehabsai.github.io/csb-om46ir/static/js/2.7b84c1fd.chunk.js.map",
+    "index.html": "https://shehabsai.github.io/csb-om46ir/index.html",
+    "precache-manifest.4d68afcf63f9e24e404103340fef3acb.js": "https://shehabsai.github.io/csb-om46ir/precache-manifest.4d68afcf63f9e24e404103340fef3acb.js",
+    "service-worker.js": "https://shehabsai.github.io/csb-om46ir/service-worker.js",
+    "static/js/2.7b84c1fd.chunk.js.LICENSE.txt": "https://shehabsai.github.io/csb-om46ir/static/js/2.7b84c1fd.chunk.js.LICENSE.txt",
+    "static/media/background.png": "https://shehabsai.github.io/csb-om46ir/static/media/background.7b3c8d1a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4073a00.js",
+    "static/js/2.7b84c1fd.chunk.js",
+    "static/js/main.f8b95c4b.chunk.js"
+  ]
+}
